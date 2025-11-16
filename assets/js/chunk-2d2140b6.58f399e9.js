@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2140b6"],{aeea:function(n,e,u){"use strict";u.r(e);var t=function(){var n=this,e=n._self._c;return e("div",[n._v("学生管理页面")])},a=[],c={},l=c,s=u("2877"),i=Object(s["a"])(l,t,a,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d2140b6.58f399e9.js.map

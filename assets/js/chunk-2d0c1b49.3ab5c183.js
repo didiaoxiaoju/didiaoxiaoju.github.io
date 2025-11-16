@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c1b49"],{"46d5":function(n,u,c){"use strict";c.r(u);var t=function(){var n=this,u=n._self._c;return u("div",[n._v("学科管理")])},e=[],l={},s=l,i=c("2877"),o=Object(i["a"])(s,t,e,!1,null,null,null);u["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0c1b49.3ab5c183.js.map
